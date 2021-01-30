@@ -13,5 +13,7 @@
 * [auto_metrics_inspect_2459141.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H4C_Notebooks/blob/master/auto_metrics_inspect/auto_metrics_inspect_2459141.html)
 * [auto_metrics_inspect_2459142.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H4C_Notebooks/blob/master/auto_metrics_inspect/auto_metrics_inspect_2459142.html)
 * [auto_metrics_inspect_2459143.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H4C_Notebooks/blob/master/auto_metrics_inspect/auto_metrics_inspect_2459143.html)
+* [auto_metrics_inspect_2459144.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H4C_Notebooks/blob/master/auto_metrics_inspect/auto_metrics_inspect_2459144.html)
 * [auto_metrics_inspect_2459158.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H4C_Notebooks/blob/master/auto_metrics_inspect/auto_metrics_inspect_2459158.html)
+* [auto_metrics_inspect_2459179.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H4C_Notebooks/blob/master/auto_metrics_inspect/auto_metrics_inspect_2459179.html)
 * [auto_metrics_inspect_2459241.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H4C_Notebooks/blob/master/auto_metrics_inspect/auto_metrics_inspect_2459241.html)
