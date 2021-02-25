@@ -41,3 +41,4 @@
 * [redcal_inspect_maybe_good_2459143.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/redcal_inspect_maybe_good/redcal_inspect_maybe_good_2459143.ipynb)
 * [redcal_inspect_maybe_good_2459144.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/redcal_inspect_maybe_good/redcal_inspect_maybe_good_2459144.ipynb)
 * [redcal_inspect_maybe_good_2459158.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/redcal_inspect_maybe_good/redcal_inspect_maybe_good_2459158.ipynb)
+* [redcal_inspect_maybe_good_2459270.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/redcal_inspect_maybe_good/redcal_inspect_maybe_good_2459270.ipynb)
