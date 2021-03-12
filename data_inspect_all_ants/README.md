@@ -64,3 +64,4 @@
 * [data_inspect_all_ants_2459278.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/data_inspect_all_ants/data_inspect_all_ants_2459278.ipynb)
 * [data_inspect_all_ants_2459279.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/data_inspect_all_ants/data_inspect_all_ants_2459279.ipynb)
 * [data_inspect_all_ants_2459280.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/data_inspect_all_ants/data_inspect_all_ants_2459280.ipynb)
+* [data_inspect_all_ants_2459283.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/data_inspect_all_ants/data_inspect_all_ants_2459283.ipynb)
