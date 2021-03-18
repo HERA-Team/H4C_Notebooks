@@ -68,3 +68,4 @@
 * [data_inspect_known_good_2459283.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/data_inspect_known_good/data_inspect_known_good_2459283.ipynb)
 * [data_inspect_known_good_2459284.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/data_inspect_known_good/data_inspect_known_good_2459284.ipynb)
 * [data_inspect_known_good_2459285.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/data_inspect_known_good/data_inspect_known_good_2459285.ipynb)
+* [data_inspect_known_good_2459288.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/data_inspect_known_good/data_inspect_known_good_2459288.ipynb)
