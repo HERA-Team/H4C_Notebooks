@@ -20,3 +20,4 @@
 * [redcal_inspect_known_good_2459288.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/redcal_inspect_known_good/redcal_inspect_known_good_2459288.ipynb)
 * [redcal_inspect_known_good_2459290.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/redcal_inspect_known_good/redcal_inspect_known_good_2459290.ipynb)
 * [redcal_inspect_known_good_2459292.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/redcal_inspect_known_good/redcal_inspect_known_good_2459292.ipynb)
+* [redcal_inspect_known_good_2459293.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/redcal_inspect_known_good/redcal_inspect_known_good_2459293.ipynb)
