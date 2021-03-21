@@ -9,6 +9,7 @@
 * [delay_spectrum_2459288.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H4C_Notebooks/blob/master/delay_spectrum_inspect/delay_spectrum_2459288.html)
 * [delay_spectrum_2459290.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H4C_Notebooks/blob/master/delay_spectrum_inspect/delay_spectrum_2459290.html)
 * [delay_spectrum_2459292.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H4C_Notebooks/blob/master/delay_spectrum_inspect/delay_spectrum_2459292.html)
+* [delay_spectrum_2459293.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H4C_Notebooks/blob/master/delay_spectrum_inspect/delay_spectrum_2459293.html)
 * [delay_spectrum_inspect_2459134.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/delay_spectrum_inspect/delay_spectrum_inspect_2459134.ipynb)
 * [delay_spectrum_inspect_2459139.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/delay_spectrum_inspect/delay_spectrum_inspect_2459139.ipynb)
 * [delay_spectrum_inspect_2459158.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/delay_spectrum_inspect/delay_spectrum_inspect_2459158.ipynb)
@@ -28,3 +29,4 @@
 * [delay_spectrum_inspect_2459288.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/delay_spectrum_inspect/delay_spectrum_inspect_2459288.ipynb)
 * [delay_spectrum_inspect_2459290.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/delay_spectrum_inspect/delay_spectrum_inspect_2459290.ipynb)
 * [delay_spectrum_inspect_2459292.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/delay_spectrum_inspect/delay_spectrum_inspect_2459292.ipynb)
+* [delay_spectrum_inspect_2459293.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/delay_spectrum_inspect/delay_spectrum_inspect_2459293.ipynb)
