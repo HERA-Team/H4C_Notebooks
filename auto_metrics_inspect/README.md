@@ -50,3 +50,4 @@
 * [auto_metrics_inspect_2459292.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H4C_Notebooks/blob/master/auto_metrics_inspect/auto_metrics_inspect_2459292.html)
 * [auto_metrics_inspect_2459293.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H4C_Notebooks/blob/master/auto_metrics_inspect/auto_metrics_inspect_2459293.html)
 * [auto_metrics_inspect_2459294.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H4C_Notebooks/blob/master/auto_metrics_inspect/auto_metrics_inspect_2459294.html)
+* [auto_metrics_inspect_2459295.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H4C_Notebooks/blob/master/auto_metrics_inspect/auto_metrics_inspect_2459295.html)
