@@ -63,3 +63,4 @@
 * [rfi_inspect_2459295.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/rfi_inspect/rfi_inspect_2459295.ipynb)
 * [rfi_inspect_2459296.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/rfi_inspect/rfi_inspect_2459296.ipynb)
 * [rfi_inspect_2459297.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/rfi_inspect/rfi_inspect_2459297.ipynb)
+* [rfi_inspect_2459298.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H4C_Notebooks/blob/master/rfi_inspect/rfi_inspect_2459298.ipynb)
